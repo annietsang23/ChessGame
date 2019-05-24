@@ -1,5 +1,7 @@
 # ChessGame
-A virtual chessboard written in python for two human players. 
+A virtual chessboard written in python for two human players.
+
+<img src="https://github.com/annietsang23/ChessGame/blob/master/chessgame.png" "hspace="5" width="500">
 
 Playing instructions:
 
