@@ -2,7 +2,7 @@
 A virtual chessboard written in python for two human players.
 
 <div>
-<img src="https://github.com/annietsang23/ChessGame/blob/master/chessgame.png" "hspace="5" width="500">
+<img src="https://github.com/annietsang23/ChessGame/blob/master/chessgame.png" "hspace="5" width="800">
 </div>
 
 Playing instructions:
